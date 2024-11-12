@@ -1,7 +1,7 @@
 <div align='center'><p><img src="https://img.shields.io/badge/total-2-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-2-red?style=flat-square" alt="Total Conferences">    </p>
 </div>
-  <p align='center'><h1 align='center'>This will appear at the top of the generated README.md file</h1>
-<p align='center'>Let's add some badges! <p align='center'><a href='https://twitter.com/liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
+  <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
+<p align='center'>Reach me out on social networks! <p align='center'><a href='https://www.linkedin.com/in/federico-parezzan/'><img alt='Twitter Follow' src='https://img.shields.io/badge/LinkedIn-Connect-blue'></a></p>
 
  - In addition to raw HTML elements, you can use format sections
  - Using HTML elements to construct the output
@@ -33,8 +33,8 @@
 
 
 
-<p align='center'><h1 align='center'>This will appear at the bottom of the generated README.md file</h1>
+<p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2024-11-12T16:58:18.467Z*
+*page updated on 2024-11-12T17:09:22.585Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
