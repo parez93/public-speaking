@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-21-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-21-violet?style=flat-square" alt="Total Meetups">     </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-26-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-25-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences">    </p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://www.linkedin.com/in/federico-parezzan/'><img alt='Twitter Follow' src='https://img.shields.io/badge/LinkedIn-Connect-blue'></a></p>
@@ -10,10 +10,28 @@
 # Table of Contents
 
 
+ - [Year of 2024](#2024) - total events 5
  - [Year of 2023](#2023) - total events 4
  - [Year of 2022](#2022) - total events 5
  - [Year of 2021](#2021) - total events 9
  - [Year of 2020](#2020) - total events 3
+
+# 2024
+
+
+![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2024-9-16 | Community Mobile Dev | [Flutter Riverpod: gestione dello Stato da Zero a Hero](pages/2024/2024-09-16.md) |  | [Recording](https://www.youtube.com/watch?v=pW8hAEHYk54) | [🇮🇹](## "Italy") | Italian |
+| 2024-5-20 | Community Mobile Dev | [Flutter vs React Native, duello tra framework!](pages/2024/2024-05-20.md) |  | [Recording](https://www.youtube.com/watch?v=6oJQBHuZrys) | [🇮🇹](## "Italy") | Italian |
+| 2024-3-25 | Community Mobile Dev | [Navigazione in Flutter? Make it easy!](pages/2024/2024-03-25.md) |  | [Recording](https://www.youtube.com/watch?v=-ZrAyKstIIU) | [🇮🇹](## "Italy") | Italian |
+| 2024-2-27 | Flutter Global Summit 2024 | [Declarative Navigation with GoRouter: What, Why, and How](pages/2024/2024-02-27.md) |  | [Recording](https://www.youtube.com/watch?v=aSRl8zFuQJk) | [🇮🇹](## "Italy") | Italian |
+| 2024-2-19 | Community Mobile Dev | [Localizzazione in Flutter: tutto quello che devi sapere!](pages/2024/2024-02-19.md) |  | [Recording](https://www.youtube.com/watch?v=IYJOltiBxKc) | [🇮🇹](## "Italy") | Italian |
+
 
 # 2023
 
@@ -87,6 +105,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2024-11-20T21:15:45.579Z*
+*page updated on 2024-11-20T21:54:16.089Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
