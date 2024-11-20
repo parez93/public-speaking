@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-17-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-17-violet?style=flat-square" alt="Total Meetups">     </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-21-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-21-violet?style=flat-square" alt="Total Meetups">     </p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://www.linkedin.com/in/federico-parezzan/'><img alt='Twitter Follow' src='https://img.shields.io/badge/LinkedIn-Connect-blue'></a></p>
@@ -10,9 +10,26 @@
 # Table of Contents
 
 
+ - [Year of 2023](#2023) - total events 4
  - [Year of 2022](#2022) - total events 5
  - [Year of 2021](#2021) - total events 9
  - [Year of 2020](#2020) - total events 3
+
+# 2023
+
+
+![Total Events](https://img.shields.io/badge/total-4-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square)     
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2023-12-6 | Dev WorkSpace | [Da Flutter & Dart a Java](pages/2023/2023-12-06.md) |  | [Recording](https://www.youtube.com/watch?v=TQpURFoyRA4) | [🇮🇹](## "Italy") | Italian |
+| 2023-11-29 | Dev WorkSpace | [Da Java a Flutter & Dart](pages/2023/2023-11-29.md) |  | [Recording](https://www.youtube.com/watch?v=jGiGGLF-nZg) | [🇮🇹](## "Italy") | Italian |
+| 2023-5-16 | SMART Cloud | [Sviluppiamo un clone del videogioco FlappyBird in Flutter e Dart](pages/2023/2023-05-16.md) |  | [Recording](https://www.youtube.com/watch?v=AmWL11VleNs) | [🇮🇹](## "Italy") | Italian |
+| 2023-3-10 | Sviluppatori Flutter | [Flutter Forward: leggiamo insieme le novità del 2023](pages/2023/2023-03-10.md) |  | [Recording](https://www.youtube.com/watch?v=Q9f7ZpUT9oE) | [🇮🇹](## "Italy") | Italian |
+
 
 # 2022
 
@@ -70,6 +87,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2024-11-20T21:10:48.644Z*
+*page updated on 2024-11-20T21:15:45.579Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
