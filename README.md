@@ -29,7 +29,7 @@
 | 2024-9-16 | Community Mobile Dev | [Flutter Riverpod: gestione dello Stato da Zero a Hero](pages/2024/2024-09-16.md) |  | [Recording](https://www.youtube.com/watch?v=pW8hAEHYk54) | [🇮🇹](## "Italy") | Italian |
 | 2024-5-20 | Community Mobile Dev | [Flutter vs React Native, duello tra framework!](pages/2024/2024-05-20.md) |  | [Recording](https://www.youtube.com/watch?v=6oJQBHuZrys) | [🇮🇹](## "Italy") | Italian |
 | 2024-3-25 | Community Mobile Dev | [Navigazione in Flutter? Make it easy!](pages/2024/2024-03-25.md) |  | [Recording](https://www.youtube.com/watch?v=-ZrAyKstIIU) | [🇮🇹](## "Italy") | Italian |
-| 2024-2-27 | Flutter Global Summit 2024 | [Declarative Navigation with GoRouter: What, Why, and How](pages/2024/2024-02-27.md) |  | [Recording](https://www.youtube.com/watch?v=aSRl8zFuQJk) | [🇮🇹](## "Italy") | Italian |
+| 2024-2-27 | Flutter Global Summit 2024 | [Declarative Navigation with GoRouter: What, Why, and How](pages/2024/2024-02-27.md) |  | [Recording](https://www.youtube.com/watch?v=aSRl8zFuQJk) | [🇮🇹](## "Italy") | English |
 | 2024-2-19 | Community Mobile Dev | [Localizzazione in Flutter: tutto quello che devi sapere!](pages/2024/2024-02-19.md) |  | [Recording](https://www.youtube.com/watch?v=IYJOltiBxKc) | [🇮🇹](## "Italy") | Italian |
 
 
@@ -105,6 +105,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2024-11-20T21:54:16.089Z*
+*page updated on 2024-11-20T21:57:15.303Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
