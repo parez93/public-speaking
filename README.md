@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-12-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups">     </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-17-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-17-violet?style=flat-square" alt="Total Meetups">     </p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://www.linkedin.com/in/federico-parezzan/'><img alt='Twitter Follow' src='https://img.shields.io/badge/LinkedIn-Connect-blue'></a></p>
@@ -10,8 +10,26 @@
 # Table of Contents
 
 
+ - [Year of 2022](#2022) - total events 5
  - [Year of 2021](#2021) - total events 9
  - [Year of 2020](#2020) - total events 3
+
+# 2022
+
+
+![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square)     
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2022-9-28 | Sviluppatori Flutter | [Minicorso Responsive Design in Flutter: principi di Responsive Design](pages/2022/2022-09-28.md) |  | [Recording](https://www.youtube.com/watch?v=g4XxI65UmSY) | [🇮🇹](## "Italy") | Italian |
+| 2022-9-21 | Sviluppatori Flutter | [Minicorso Responsive Design in Flutter: introduzione a Flutter](pages/2022/2022-09-21.md) |  | [Recording](https://www.youtube.com/watch?v=AauMFz_O5QE) | [🇮🇹](## "Italy") | Italian |
+| 2022-6-13 | Sviluppatori Flutter | [Flutter 3: un framework multipiattaforma!](pages/2022/2022-06-13.md) |  | [Recording](https://www.youtube.com/watch?v=9jjgRYb8ho0) | [🇮🇹](## "Italy") | Italian |
+| 2022-3-29 | SMART Cloud | [SMART Cloud #8 • Web 3.0: Extended Reality](pages/2022/2022-03-29.md) |  | [Recording](https://www.youtube.com/watch?v=iJtUb6GvErs) | [🇮🇹](## "Italy") | Italian |
+| 2022-2-17 | Dev WorkSpace | [DateTime migliori con Java 8](pages/2022/2022-02-17.md) |  | [Recording](https://www.youtube.com/watch?v=d0t3nc8tlGw) | [🇮🇹](## "Italy") | Italian |
+
 
 # 2021
 
@@ -52,6 +70,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2024-11-20T21:01:25.680Z*
+*page updated on 2024-11-20T21:10:48.644Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
