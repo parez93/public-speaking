@@ -105,3 +105,4 @@ dist
 
 # Snyk Code
 .dccache
+.idea
