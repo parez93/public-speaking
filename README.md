@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-26-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-25-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences">    </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-28-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-25-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-2-red?style=flat-square" alt="Total Conferences">    <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://www.linkedin.com/in/federico-parezzan/'><img alt='Twitter Follow' src='https://img.shields.io/badge/LinkedIn-Connect-blue'></a></p>
@@ -10,11 +10,26 @@
 # Table of Contents
 
 
+ - [Year of 2025](#2025) - total events 2
  - [Year of 2024](#2024) - total events 5
  - [Year of 2023](#2023) - total events 4
  - [Year of 2022](#2022) - total events 5
  - [Year of 2021](#2021) - total events 9
  - [Year of 2020](#2020) - total events 3
+
+# 2025
+
+
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2025-6-14 | Google Devfest Vicenza 2025 | [Un linguaggio per domarli tutti: Dart full-stack con Serverpod](pages/2025/2025-06-14.md) | [Slides](/slides/2025/2025-06-14_Serverpod.pdf) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-4-4 | Community Mobile Dev | [Introduzione a Flutter](pages/2025/2025-04-04.md) |  |  | [🇮🇹](## "Italy") | Italian |
+
 
 # 2024
 
@@ -105,6 +120,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2024-11-20T21:57:15.303Z*
+*page updated on 2025-06-15T14:16:03.531Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
